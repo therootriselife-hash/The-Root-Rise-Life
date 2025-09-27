@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Root & Rise Life</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="images/logo-placeholder.png" alt="The Root & Rise Life Logo">
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="products.html">Products</a>
+            <a href="about.html">About</a>
+            <a href="blog.html">Blog</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <div class="container">
+        <h1>Welcome to The Root & Rise Life</h1>
+        <p>Discover soulful digital products to support your journey of growth and self-care.</p>
+        <a href="products.html"><button>Explore Products</button></a>
+    </div>
+</body>
+</html>
