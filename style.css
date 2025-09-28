@@ -14,7 +14,7 @@ header {
     text-align: center;
 }
 
-header svg {
+header img scr {
     max-width: 150px;
 }
 
@@ -78,3 +78,4 @@ button:hover {
         gap: 10px;
     }
 }
+
