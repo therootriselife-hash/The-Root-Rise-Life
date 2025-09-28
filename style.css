@@ -14,8 +14,14 @@ header {
     text-align: center;
 }
 
-header img scr {
-    max-width: 150px;
+ header img {
+    max-width: 120px; /* or whatever size fits best */
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
 }
 
 nav {
@@ -78,4 +84,5 @@ button:hover {
         gap: 10px;
     }
 }
+
 
